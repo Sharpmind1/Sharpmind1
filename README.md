@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Akindeji Ayedun, a student account for my main Sharpmind015 account, not sure on shy I created this account, oh well.....
+### I'm Akindeji Ayedun, a student account for my main Sharpmind015 account, not sure on why I created this account, oh well.....
 
 - 🔭 I’m currently working on a certain project
 - 🌱 I’m currently learning vue js, hell yeah :)
